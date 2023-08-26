@@ -1,6 +1,7 @@
 {
   "name": "clips",
   "version": "0.0.0",
+  "author": "Yucho",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

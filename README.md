@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
-Check the deployed version [Clips](https://clips-udemy-yucho.vercel.app/)
+Check the deployed version of [Clips](https://clips-udemy-yucho.vercel.app/) project
 
 ## Development server
 

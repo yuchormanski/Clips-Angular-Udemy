@@ -1,4 +1,6 @@
-# Clips
+# Clips 
+
+Deployed version in VERCEL.COM - https://clips-udemy-yucho.vercel.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
